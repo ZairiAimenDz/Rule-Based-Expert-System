@@ -9,7 +9,7 @@
   <Identity
     Name="7b6a4e76-d6b8-4b30-bd3a-bce84291c05f"
     Publisher="CN=Zairi Aimen"
-    Version="1.0.0.0" />
+    Version="0.1.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="7b6a4e76-d6b8-4b30-bd3a-bce84291c05f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

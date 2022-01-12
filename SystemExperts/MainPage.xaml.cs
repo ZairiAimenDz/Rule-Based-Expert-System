@@ -117,7 +117,7 @@ namespace SystemExperts
                 }
                 else
                 {
-                    Progress.Add("On Peut Appliquer R" + (Rules.IndexOf(rule) + 1) + " On Arrete");
+                    Progress.Add("On Peut Pas Appliquer R" + (Rules.IndexOf(rule) + 1) + " On Arrete");
                     break;
                 }
 
